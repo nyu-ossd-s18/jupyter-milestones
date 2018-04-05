@@ -15,3 +15,17 @@ if your `origin` is not as above, do and run `git remote --v` again:
 git remote set-url origin https://github.com/nyu-ossd-s18/notebook.git
 git fetch
 ```
+
+## working on issues
+the person creating the branch to fix the issue:
+```
+git checkout -b [branch-name]
+git add .
+git commit -m [commit-message]
+git push
+```
+everyone else:
+```
+git fetch
+git checkout [branch-name]
+```
