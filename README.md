@@ -13,7 +13,7 @@ upstream	git@github.com:jupyter/notebook.git (push)
 if your `origin` is not as above, do and run `git remote --v` again:
 ```
 git remote set-url origin https://github.com/nyu-ossd-s18/notebook.git
-git fetch
+git pull
 ```
 
 ## working on issues
@@ -26,6 +26,6 @@ git push
 ```
 everyone else:
 ```
-git fetch
+git pull
 git checkout [branch-name]
 ```
