@@ -29,3 +29,12 @@ everyone else:
 git pull
 git checkout [branch-name]
 ```
+## syncing our fork with the OG notebook
+https://help.github.com/articles/syncing-a-fork/
+```
+# make sure upstream is set to https://github.com/jupyter/notebook.git
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push
+```
