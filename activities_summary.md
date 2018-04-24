@@ -7,7 +7,7 @@
 | [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes | [Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina | 
 | [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | [Add documentation to open a specific Notebook](https://github.com/jupyter/jupyter/pull/332) | Accepted | Ashley
 | [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
-| [Remove In[*] from cells when notebook is restarted](https://github.com/jupyter/notebook/issues/2460)| Yes | Yes | [solved waiting asterisk](https://github.com/jupyter/notebook/pull/3494) | Yes | Dana |
+| [Remove In[*] from cells when notebook is restarted](https://github.com/jupyter/notebook/issues/2460)| Yes | Yes | [solved waiting asterisk](https://github.com/jupyter/notebook/pull/3494) | Accepted | Dana |
 | [Is checking links on Travis too aggressive?](https://github.com/jupyter/notebook/issues/3292)| Yes | Yes | [Only check links when build is trigger by Travis Cron job](https://github.com/jupyter/notebook/pull/3493) | Accepted | Ashley
   
   
