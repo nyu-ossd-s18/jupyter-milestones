@@ -1,11 +1,5 @@
 # Activities Summary: Jupyter Notebook
 
-## List of all commits in Notebook
-- [Celina](https://github.com/jupyter/notebook/commits?author=ckilcrease)
-- [Rosa](https://github.com/jupyter/notebook/commits?author=rosaswaby)
-- [Ashley](https://github.com/jupyter/notebook/commits?author=ashleytqy)
-- [Dana](https://github.com/jupyter/notebook/commits?author=danagilliann)
-
 ## Issues we attempted and/or considered
 | Issue Name        | Attempted?   |  Successful? |
 | ------------- |:-------------|:-----|
@@ -23,7 +17,7 @@
   
 # Individual Commits
 
-## Celina's commits
+## Celina's [commits]([Celina](https://github.com/jupyter/notebook/commits?author=ckilcrease))
 - Branch: [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commits/ash.disable-cache-and-etags)
   - [add cache-control in respond_zip function](https://github.com/nyu-ossd-s18/notebook/commit/e56060a67abe98ca16793ab3cfd31b45ba4510ca)
 - Branch: [cookies](https://github.com/nyu-ossd-s18/notebook/commits/cookies)
@@ -47,7 +41,7 @@
 - Branch: [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commits/improve-accessibility)
   - [accessibility guideline fixes](https://github.com/nyu-ossd-s18/notebook/commit/4f45bdc3dce73fea21d4fcccd545678d6179640e)
   
-## Rosa's commits 
+## Rosa's [commits](https://github.com/jupyter/notebook/commits?author=rosaswaby)
 - Branch: [documentation](https://github.com/nyu-ossd-s18/notebook/commits/documentation)
   - [making doc changes for verification portion of documentation](https://github.com/nyu-ossd-s18/notebook/commit/d736b2efd7df402ee3f9d13bc281eb83f02905cb)
   - [fixing merge conflict with troubleshoot section](https://github.com/nyu-ossd-s18/notebook/commit/e2e9c40d2009a7294a64771dac97b55e0d540a0a)
@@ -69,7 +63,7 @@
   - [added classes to html and removed add class lines from main.js file](https://github.com/nyu-ossd-s18/notebook/commit/72bedfc36d247854567a993bcd897b9f3c4bd483)
   - [removed focus on token input](https://github.com/nyu-ossd-s18/notebook/commit/5361b723191eeb411cfc9dbf007f72ce5dd08b89)
 
- ## Ashley's commits
+ ## Ashley's [commits](https://github.com/jupyter/notebook/commits?author=ashleytqy)
 - Branch: [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commits/ash.disable-cache-and-etags)
   - [disable cache and etag](https://github.com/jupyter/notebook/pull/3484/commits/7b8894fe5958275e6e5c2348ac40c91c48c49f9c)
   - [remove unnecessary code](https://github.com/jupyter/notebook/pull/3484/commits/3f6bfde0a30d322d80e54fa513bc3ff09923ab86)
