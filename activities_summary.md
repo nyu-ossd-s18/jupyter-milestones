@@ -3,8 +3,8 @@
 ## Issues we attempted and/or considered
 | Issue      | Attempted?   |  Successful? |
 | ------------- |:-------------|:-----|
-|[see file size in browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes |
-|[improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | 
+|[see file size in file browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes |
+|[Improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | 
 | [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes |
 | [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | 
 | [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |
@@ -16,7 +16,8 @@
 | ------------- |:-------------|:-----|
 | [Adding filesize to view](https://github.com/jupyter/notebook/pull/3539)| Accepted         |  Ashley, Celina  |
 | [Improve web accessibility](https://github.com/jupyter/notebook/pull/3507) | Accepted         |  Ashley, Celina, Dana, Rosa  |
-|[Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina
+|[Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina | 
+|[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
   
   
   
