@@ -9,9 +9,9 @@
 ## Pull Requests
 | PR       | Status          |  Group Members |
 | ------------- |:-------------|:-----|
-| [Adding filesize to view](https://github.com/nyu-ossd-s18/notebook/commit/58752355b99289319121d845679b97f56bbb78ad)| Accepted         |  Ashley, Celina  |
-| [Improve web accessibility](https://github.com/nyu-ossd-s18/notebook/commit/fcf5f39606aa7d5810c53f20b7f6694d025f9259) | Accepted         |  Ashley, Celina, Dana, Rosa  |
-|[Disabling cache](https://github.com/nyu-ossd-s18/notebook/commit/f69ce9fcadd46c282450ff57bf4d855b833f9cae) | Accepted         |  Ashley, Celina
+| [Adding filesize to view](https://github.com/jupyter/notebook/pull/3539)| Accepted         |  Ashley, Celina  |
+| [Improve web accessibility](https://github.com/jupyter/notebook/pull/3507) | Accepted         |  Ashley, Celina, Dana, Rosa  |
+|[Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina
   
   
   
