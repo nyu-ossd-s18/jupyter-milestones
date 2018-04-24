@@ -35,4 +35,30 @@
   - [remove es6 syntax](https://github.com/nyu-ossd-s18/notebook/commit/192e3fe9d8dcbaec470017e024378e7ed084ad1f)
 - Branch: [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commits/improve-accessibility)
   - [accessibility guideline fixes](https://github.com/nyu-ossd-s18/notebook/commit/4f45bdc3dce73fea21d4fcccd545678d6179640e)
+  
+## Rosa's commits 
+- Branch: [documentation](https://github.com/nyu-ossd-s18/notebook/commits/documentation)
+  - [making doc changes for verification portion of documentation](https://github.com/nyu-ossd-s18/notebook/commit/d736b2efd7df402ee3f9d13bc281eb83f02905cb)
+  - [fixing merge conflict with troubleshoot section](https://github.com/nyu-ossd-s18/notebook/commit/e2e9c40d2009a7294a64771dac97b55e0d540a0a)
+  - [adding screenshot to show dev mode](https://github.com/nyu-ossd-s18/notebook/commit/29447f79c6b4bc524d2f4a099e8253acfc5e833b)
+  - [renaming screenshot](https://github.com/nyu-ossd-s18/notebook/commit/98138bb7a3e2e30dc42b89fb658f9c86a1066bf0)
+  - [removing this screenshot file](https://github.com/nyu-ossd-s18/notebook/commit/da4c6ffc06c84154e869b71087f6196a9ab7b9e4)
+  - [adding image to doc](https://github.com/nyu-ossd-s18/notebook/commit/b21ec3a7c0e9b8e340bdcf1c09d6614a6c07f011)
+  - [deleyting old screenshot and using screenshot that was used in the issue](https://github.com/nyu-ossd-s18/notebook/commit/cfca135dd6d708de1f1356927c03a151763528a5)
+  - [instead of using screenshot i am now using the link to the image](https://github.com/nyu-ossd-s18/notebook/commit/5b643394537ca19d58568d4427ced43b8984df15)
+  - [deleting the screenshot files](https://github.com/nyu-ossd-s18/notebook/commit/8f08ed6c28ab8e1cd6670be411ac1b32ea496a24)
+  - [changing image link] (https://github.com/nyu-ossd-s18/notebook/commit/64c576a5c0bf947e04bd0951dac274494c61fb43)
+  - [trying to add image to verification section](https://github.com/nyu-ossd-s18/notebook/commit/7565b4829ca4905b8e8380924e0903862e6a3380)
+  - [trying new forma for adding image](https://github.com/nyu-ossd-s18/notebook/commit/92918060629beaf2b8454fe6302f73a6469d65af)
+  - [made changes to formatting of verificaton sectiom](https://github.com/nyu-ossd-s18/notebook/commit/b13a7915e5658925ea4d25436b334ba802326196)
+- Branch: [cookies](https://github.com/nyu-ossd-s18/notebook/commits/cookies)
+  - [adding changes for cookies issue that Celina and I are working on](https://github.com/nyu-ossd-s18/notebook/commit/d5bc78fdc2aee0115f8d8039f3cd49802dca8da1)
+  - [fixing notebook.js file](https://github.com/nyu-ossd-s18/notebook/commit/40558fbcdc97e481d7d9c899c35551c4a098149f)
+- Branch: [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commits/cookies)
+  - [added classes to html and removed add class lines from main.js file](https://github.com/nyu-ossd-s18/notebook/commit/72bedfc36d247854567a993bcd897b9f3c4bd483)
+  - [removed focus on token input](https://github.com/nyu-ossd-s18/notebook/commit/5361b723191eeb411cfc9dbf007f72ce5dd08b89)
 
+ 
+  
+  
+  
