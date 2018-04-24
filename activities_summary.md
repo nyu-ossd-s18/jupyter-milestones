@@ -6,10 +6,19 @@
 
 
 ## Pull Requests
-- PR Name / link:
-  - Status (accepted/rejected/making changes/still waiting/etc)
-  - group members who worked on it
-
+- [filesize](https://github.com/nyu-ossd-s18/notebook/commit/58752355b99289319121d845679b97f56bbb78ad)
+  - Status: Accepted
+  - Group Members: Ashley, Celina 
+- [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commit/fcf5f39606aa7d5810c53f20b7f6694d025f9259)
+  - Status: Accepted
+  - Group Members: Ashley, Celina, Dana, Rosa 
+- [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commit/f69ce9fcadd46c282450ff57bf4d855b833f9cae)
+  - Status: Accepted 
+  - Group Members: Ashley 
+  
+  
+  
+  
 # Individual Commits:
 
 ## Celina's commits
