@@ -1,24 +1,14 @@
 # Activities Summary: Jupyter Notebook
 
-## Issues we attempted and/or considered
-| Issue      | Attempted?   |  Successful? |
-| ------------- |:-------------|:-----|
-|[see file size in file browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes |
-|[Improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | 
-| [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes |
-| [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | 
-| [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |
+| Issue      | Attempted?   |  Successful? |  PR       | Status          |  Group Members |
+| ------------- |:-------------|:-----|:-----|:-----|:-----|
+|[see file size in file browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes | [Adding filesize to view](https://github.com/jupyter/notebook/pull/3539)| Accepted         |  Ashley, Celina  |
+|[Improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | [Improve web accessibility](https://github.com/jupyter/notebook/pull/3507) | Accepted         |  Ashley, Celina, Dana, Rosa  |
+| [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes | [Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina | 
+| [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | [Add documentation to open a specific Notebook](https://github.com/jupyter/jupyter/pull/332) | Accepted | Ashley
+| [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
 | [Remove In[*] from cells when notebook is restarted](https://github.com/jupyter/notebook/issues/2460)| Yes | Yes | 
-| [Is checking links on Travis too aggressive?](https://github.com/jupyter/notebook/issues/3292)| Yes | Yes |
-
-## Pull Requests
-| PR       | Status          |  Group Members |
-| ------------- |:-------------|:-----|
-| [Adding filesize to view](https://github.com/jupyter/notebook/pull/3539)| Accepted         |  Ashley, Celina  |
-| [Improve web accessibility](https://github.com/jupyter/notebook/pull/3507) | Accepted         |  Ashley, Celina, Dana, Rosa  |
-|[Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina | 
-|[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
-  
+| [Is checking links on Travis too aggressive?](https://github.com/jupyter/notebook/issues/3292)| Yes | Yes | [Only check links when build is trigger by Travis Cron job](https://github.com/jupyter/notebook/pull/3493) | Accepted | Ashley
   
   
 # Individual Commits
