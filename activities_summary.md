@@ -7,8 +7,8 @@
 | [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes | [Disabling cache](https://github.com/jupyter/notebook/pull/3484) | Accepted         |  Ashley, Celina | 
 | [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | [Add documentation to open a specific Notebook](https://github.com/jupyter/jupyter/pull/332) | Accepted | Ashley
 | [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
-| [Remove In[*] from cells when notebook is restarted](https://github.com/jupyter/notebook/issues/2460)| Yes | Yes | [solved waiting asterisk](https://github.com/jupyter/notebook/pull/3494) | Accepted | Dana |
 | [Is checking links on Travis too aggressive?](https://github.com/jupyter/notebook/issues/3292)| Yes | Yes | [Only check links when build is trigger by Travis Cron job](https://github.com/jupyter/notebook/pull/3493) | Accepted | Ashley
+| [Contributing dev docs: jupyter instances and verification of installation](https://github.com/jupyter/notebook/issues/3505) | Yes | Sort-of | https://github.com/jupyter/notebook/pull/3536 | Pending | Dana, Rosa
   
   
 # Individual Commits
@@ -78,3 +78,13 @@
     
 - Branch: [Add notebook documentation](https://github.com/nyu-ossd-s18/jupyter/tree/add-notebook-documentation)
   - [add documentation](https://github.com/jupyter/jupyter/pull/332/commits/565df0c2c0b567f8d38b747537eeb1fbd1070f98)
+  
+ ## Dana's [commits](https://github.com/jupyter/notebook/commits?author=danagilliann)
+- Branch: [documentation](https://github.com/nyu-ossd-s18/notebook/commits/documentation)
+  - [remove whitespace above "Troubleshooting"](https://github.com/nyu-ossd-s18/notebook/commit/76b474a729e85bc151fa7ac17751bc9f4119e402)
+  - [Merge branch 'documentation' of github.com:nyu-ossd-s18/notebook](https://github.com/nyu-ossd-s18/notebook/commit/f334d6bd8465dc6f7d46a2da370e910daee6b1ba)
+  - [added troubleshooting steps](https://github.com/nyu-ossd-s18/notebook/commit/44a775bc951fce534fbe621a25bd07b400fb5c56)
+- Branch: [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commits/improve-accessibility)
+  - [Merge branch 'improve-accessibility'](https://github.com/nyu-ossd-s18/notebook/commit/46f481448d97450f1f4d87c049f07087440274d7)
+  - [remove token_input focus](https://github.com/nyu-ossd-s18/notebook/commit/46f481448d97450f1f4d87c049f07087440274d7)
+  
