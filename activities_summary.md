@@ -1,8 +1,11 @@
 # Activities Summary: Jupyter Notebook
 
 ## Issues we attempted and/or considered
-| Issue Name        | Attempted?   |  Successful? |
+| Issue      | Attempted?   |  Successful? |
 | ------------- |:-------------|:-----|
+|[see file size in browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes |
+|[improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | 
+| ['Download as' reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes |
 
 
 
@@ -17,7 +20,7 @@
   
 # Individual Commits
 
-## Celina's [commits]([Celina](https://github.com/jupyter/notebook/commits?author=ckilcrease))
+## Celina's [commits](https://github.com/jupyter/notebook/commits?author=ckilcrease)
 - Branch: [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commits/ash.disable-cache-and-etags)
   - [add cache-control in respond_zip function](https://github.com/nyu-ossd-s18/notebook/commit/e56060a67abe98ca16793ab3cfd31b45ba4510ca)
 - Branch: [cookies](https://github.com/nyu-ossd-s18/notebook/commits/cookies)
@@ -80,3 +83,5 @@
   - [set language dynamically](https://github.com/jupyter/notebook/commit/6b7983866b3e79c8131bd452a0a37c53ae8cb686)
   - [bold label inputs](https://github.com/jupyter/notebook/commit/f839d72b1f159f7c4f31d5d0266d2f882c45824e)
     
+- Branch: [Add notebook documentation](https://github.com/nyu-ossd-s18/jupyter/tree/add-notebook-documentation)
+  - [add documentation](https://github.com/jupyter/jupyter/pull/332/commits/565df0c2c0b567f8d38b747537eeb1fbd1070f98)
