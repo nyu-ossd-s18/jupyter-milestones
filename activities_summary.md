@@ -5,9 +5,11 @@
 | ------------- |:-------------|:-----|
 |[see file size in browser](https://github.com/jupyter/notebook/issues/3521)| Yes| Yes |
 |[improving web accessibility](https://github.com/jupyter/notebook/issues/3471)| Yes | Yes | 
-| ['Download as' reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes |
-
-
+| [`Download as` reusing old pdf](https://github.com/jupyter/notebook/issues/3251) | Yes | Yes |
+| [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | 
+| [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |
+| [Remove In[*] from cells when notebook is restarted](https://github.com/jupyter/notebook/issues/2460)| Yes | Yes | 
+| [Is checking links on Travis too aggressive?](https://github.com/nyu-ossd-s18/jupyter-milestones)| Yes | Yes |
 
 ## Pull Requests
 | PR       | Status          |  Group Members |
