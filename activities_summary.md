@@ -1,25 +1,27 @@
 # Activities Summary: Jupyter Notebook
 
+## List of all commits in Notebook
+- [Celina](https://github.com/jupyter/notebook/commits?author=ckilcrease)
+- [Rosa](https://github.com/jupyter/notebook/commits?author=rosaswaby)
+- [Ashley](https://github.com/jupyter/notebook/commits?author=ashleytqy)
+- [Dana](https://github.com/jupyter/notebook/commits?author=danagilliann)
+
 ## Issues we attempted and/or considered
-- Issue Name / link
-  - Dide we work on it / was it successful?
+| Issue Name        | Attempted?   |  Successful? |
+| ------------- |:-------------|:-----|
+
 
 
 ## Pull Requests
-- [filesize](https://github.com/nyu-ossd-s18/notebook/commit/58752355b99289319121d845679b97f56bbb78ad)
-  - Status: Accepted
-  - Group Members: Ashley, Celina 
-- [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commit/fcf5f39606aa7d5810c53f20b7f6694d025f9259)
-  - Status: Accepted
-  - Group Members: Ashley, Celina, Dana, Rosa 
-- [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commit/f69ce9fcadd46c282450ff57bf4d855b833f9cae)
-  - Status: Accepted 
-  - Group Members: Ashley 
+| PR       | Status          |  Group Members |
+| ------------- |:-------------|:-----|
+| [Adding filesize to view](https://github.com/nyu-ossd-s18/notebook/commit/58752355b99289319121d845679b97f56bbb78ad)| Accepted         |  Ashley, Celina  |
+| [Improve web accessibility](https://github.com/nyu-ossd-s18/notebook/commit/fcf5f39606aa7d5810c53f20b7f6694d025f9259) | Accepted         |  Ashley, Celina, Dana, Rosa  |
+|[Disabling cache](https://github.com/nyu-ossd-s18/notebook/commit/f69ce9fcadd46c282450ff57bf4d855b833f9cae) | Accepted         |  Ashley, Celina
   
   
   
-  
-# Individual Commits:
+# Individual Commits
 
 ## Celina's commits
 - Branch: [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commits/ash.disable-cache-and-etags)
@@ -56,7 +58,7 @@
   - [deleyting old screenshot and using screenshot that was used in the issue](https://github.com/nyu-ossd-s18/notebook/commit/cfca135dd6d708de1f1356927c03a151763528a5)
   - [instead of using screenshot i am now using the link to the image](https://github.com/nyu-ossd-s18/notebook/commit/5b643394537ca19d58568d4427ced43b8984df15)
   - [deleting the screenshot files](https://github.com/nyu-ossd-s18/notebook/commit/8f08ed6c28ab8e1cd6670be411ac1b32ea496a24)
-  - [changing image link] (https://github.com/nyu-ossd-s18/notebook/commit/64c576a5c0bf947e04bd0951dac274494c61fb43)
+  - [changing image link](https://github.com/nyu-ossd-s18/notebook/commit/64c576a5c0bf947e04bd0951dac274494c61fb43)
   - [trying to add image to verification section](https://github.com/nyu-ossd-s18/notebook/commit/7565b4829ca4905b8e8380924e0903862e6a3380)
   - [trying new forma for adding image](https://github.com/nyu-ossd-s18/notebook/commit/92918060629beaf2b8454fe6302f73a6469d65af)
   - [made changes to formatting of verificaton sectiom](https://github.com/nyu-ossd-s18/notebook/commit/b13a7915e5658925ea4d25436b334ba802326196)
@@ -67,7 +69,20 @@
   - [added classes to html and removed add class lines from main.js file](https://github.com/nyu-ossd-s18/notebook/commit/72bedfc36d247854567a993bcd897b9f3c4bd483)
   - [removed focus on token input](https://github.com/nyu-ossd-s18/notebook/commit/5361b723191eeb411cfc9dbf007f72ce5dd08b89)
 
- 
+ ## Ashley's commits
+- Branch: [ash.disable-cache-and-etags](https://github.com/nyu-ossd-s18/notebook/commits/ash.disable-cache-and-etags)
+  - [disable cache and etag](https://github.com/jupyter/notebook/pull/3484/commits/7b8894fe5958275e6e5c2348ac40c91c48c49f9c)
+  - [remove unnecessary code](https://github.com/jupyter/notebook/pull/3484/commits/3f6bfde0a30d322d80e54fa513bc3ff09923ab86)
+
+- Branch: [filesize](https://github.com/nyu-ossd-s18/notebook/commits/filesize)
+  - [use text() not html()](https://github.com/jupyter/notebook/commit/dee58e0a086bde53a661a9c526ff79c2f107e788)
+  - [update api description](https://github.com/jupyter/notebook/commit/577cbe52b7369f9db67f0f5ed59eeda2efa4eea9)
+  - [add MIT license](https://github.com/jupyter/notebook/commit/dd608ad2bd30207c85ae321dd03093ded008ec58)
+  - [right align file size column](https://github.com/jupyter/notebook/commit/d35ac8bc3ac88c63d98538631b4cca79dea05dd2)
+  - [use pretty-bytes](https://github.com/jupyter/notebook/commit/2e9ba4a1acb0f8ea329860dac6c98a4a13d65d13)
+  - [change column width](https://github.com/jupyter/notebook/commit/abe05dea420f2cce107c4f8c13d38f122161590d)
   
-  
-  
+- Branch: [improve-accessibility](https://github.com/nyu-ossd-s18/notebook/commits/improve-accessibility)
+  - [set language dynamically](https://github.com/jupyter/notebook/commit/6b7983866b3e79c8131bd452a0a37c53ae8cb686)
+  - [bold label inputs](https://github.com/jupyter/notebook/commit/f839d72b1f159f7c4f31d5d0266d2f882c45824e)
+    
