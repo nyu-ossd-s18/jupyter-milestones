@@ -8,7 +8,7 @@
 | [`jupyter my_notebook.ipynb` gives `[Errno 2] No such file or directory`](https://github.com/jupyter/notebook/issues/3396)| Yes | Yes | [Add documentation to open a specific Notebook](https://github.com/jupyter/jupyter/pull/332) | Accepted | Ashley
 | [Accepting cookies is required but no useful warning is given](https://github.com/jupyter/notebook/issues/2337) | Yes | Yes |[Displays Warning Message if Cookies Not Enabled](https://github.com/jupyter/notebook/pull/3511) | Accepted | Celina, Rosa| 
 | [Is checking links on Travis too aggressive?](https://github.com/jupyter/notebook/issues/3292)| Yes | Yes | [Only check links when build is trigger by Travis Cron job](https://github.com/jupyter/notebook/pull/3493) | Accepted | Ashley
-| [Contributing dev docs: jupyter instances and verification of installation](https://github.com/jupyter/notebook/issues/3505) | Yes | Sort-of | https://github.com/jupyter/notebook/pull/3536 | Pending | Dana, Rosa
+| [Contributing dev docs: jupyter instances and verification of installation](https://github.com/jupyter/notebook/issues/3505) | Yes | Yes | https://github.com/jupyter/notebook/pull/3536 | Yes | Dana, Rosa
   
   
 # Individual Commits
